@@ -1,0 +1,15 @@
+.navbar {
+    position: fixed;
+    top: 35px;
+    width: 100%;
+}
+img.full-logo {
+    width: 100px;
+    float: left;
+    margin-left: 27px;
+}
+img.small-logo {
+    width: 35px;
+    float: right;
+    margin-right: 20px;
+}
